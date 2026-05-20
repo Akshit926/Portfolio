@@ -1,23 +1,23 @@
-# 🚀 Akshit Agarwal Portfolio
+#  Akshit Agarwal Portfolio
 
-## 👋 About Me  
+##  About Me  
 Hi, I’m **Akshit Agarwal**, an AIML student passionate about **technology, aerospace, and building impactful projects**.  
 I enjoy solving real-world problems, participating in hackathons, and improving my **communication & leadership skills**.
 
 ---
 
-## 🌐 Portfolio Overview  
+##  Portfolio Overview  
 This portfolio showcases:
 
-- 💻 Projects (AI, Web Development, Hackathons)  
-- 🎤 Public Speaking Journey  
-- 🚀 Technical Skills  
-- 📜 Certifications & Achievements  
-- 📫 Contact Information  
+-  Projects (AI, Web Development, Hackathons)  
+-  Public Speaking Journey  
+-  Technical Skills  
+-  Certifications & Achievements  
+-  Contact Information  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 **Frontend:**  
 - HTML  
@@ -34,7 +34,7 @@ This portfolio showcases:
 
 ---
 
-## 📂 Featured Projects  
+##  Featured Projects  
 
 ### 🔹 AI Disaster Management System  
 - Built for hackathons  
@@ -50,7 +50,7 @@ This portfolio showcases:
 
 ---
 
-## 🎤 Leadership & Activities  
+##  Leadership & Activities  
 
 - Member of Toastmasters Club  
 - Active in public speaking  
@@ -58,7 +58,7 @@ This portfolio showcases:
 
 ---
 
-## 🏆 Achievements  
+##  Achievements  
 
 - Qualified for Round 2 in a Hackathon  
 - Built multiple real-world projects  
@@ -67,20 +67,20 @@ This portfolio showcases:
 ---
 
 
-## 🚀 Live Demo  
+##  Live Demo  
 
-👉 [View Portfolio](#)
-
----
-
-## 📫 Contact Me  
-
-- 📧 Email: akshitjuly9@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🐙 GitHub: https://github.com/your-username  
+ [View Portfolio](#)
 
 ---
 
-## ⭐ Support  
+##  Contact Me  
 
-If you like this portfolio, consider giving it a **star ⭐**
+-  Email: akshitjuly9@gmail.com  
+-  LinkedIn: https://linkedin.com/in/your-profile  
+-  GitHub: https://github.com/your-username  
+
+---
+
+##  Support  
+
+If you like this portfolio, consider giving it a **star**
